@@ -25,6 +25,15 @@ The program displays password strength as:
 - Medium  
 - Strong
 
+## project Checklist
+
+- **Source Code:** `password_strength_checker.py`  
+- **README File:** `README.md`  
+- **Screenshots:** Available in the `Screenshots` folder  
+- **Output Images:** Terminal outputs showing Weak, Medium, Strong passwords  
+- **Documentation:** See `Documentation.md` for project scope, features, and tools used
+
+
 ## Project Scope
 This project focuses on building a simple Python program that:
 - Checks password strength based on length, uppercase, lowercase, numbers, and special characters.  
