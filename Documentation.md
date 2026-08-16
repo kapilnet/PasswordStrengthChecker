@@ -15,4 +15,4 @@ It classifies passwords into three categories: Weak, Medium, and Strong.
 - GitHub (for version control and submission)
 
 ## Screenshots
-Screenshots of code and output are available inside 'README.md'.
+Screenshots of code and output are available inside `README.md`.
