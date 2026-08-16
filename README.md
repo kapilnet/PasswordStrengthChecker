@@ -33,6 +33,16 @@ The program displays password strength as:
 - **Output Images:** Terminal outputs showing Weak, Medium, Strong passwords  
 - **Documentation:** See `Documentation.md` for project scope, features, and tools used
 
+## Screenshot
+<img width="987" height="706" alt="Screenshot 2026-08-16 232107" src="https://github.com/user-attachments/assets/4c724267-b102-4d9f-8c17-d90fe365c7c1" />
+
+<img width="620" height="685" alt="Screenshot 2026-08-16 232117" src="https://github.com/user-attachments/assets/c4d539f4-da86-42df-a908-26525ec1e53a" />
+
+<img width="558" height="251" alt="Screenshot 2026-08-16 232121" src="https://github.com/user-attachments/assets/1a81f69c-0854-4f84-9976-30f2d08e7e28" />
+
+
+
+
 
 ## Project Scope
 This project focuses on building a simple Python program that:
